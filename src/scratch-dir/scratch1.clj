@@ -21,8 +21,8 @@
   [:user-id (int 2)
    :email "explodestudioa@gmail.com"
    :user-name "pricey"
-   ;; user type 20 == engineer
-   :user-type (int 20)]
+   ;; user type 30 == engineer
+   :user-type (int 30)]
    ])
 
 artist-1
